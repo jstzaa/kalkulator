@@ -12,7 +12,7 @@ html {
 
 body {
     align-items: center;
-    background: linear-gradient(350deg, #86A789, #B2C8BA, #D2E3C8);
+    background: linear-gradient(350deg, #1A2A80, #3B38A0, #B2B0E8);
     display: flex;
     font-family: 'Poppins' , sans-serif ;
     font-display: 'swap';
@@ -85,7 +85,7 @@ body {
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(35, 35, 35, 0.1);
     color: #ffffff;
-    background: #86A789;
+    background: #7A85C1;
 
 }
 
