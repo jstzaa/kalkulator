@@ -14,7 +14,7 @@ body {
     align-items: center;
     background: linear-gradient(350deg, #1A2A80, #3B38A0, #B2B0E8);
     display: flex;
-    font-family: 'Poppins' , sans-serif ;
+    font-family: 'Google Sans Code', monospace;
     font-display: 'swap';
     height: inherit;
     justify-content: center;
